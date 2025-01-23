@@ -51,7 +51,7 @@ Clone this repository to your local machine using the following command:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/food-data.git
+
 Import the Data:
 
 In your application, you can import the foodData array as shown below:
